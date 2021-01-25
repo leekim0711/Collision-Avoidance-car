@@ -1,0 +1,4 @@
+<launch>
+  	<node name="obstacle_detection" pkg="cool" type="detector" output="screen" />
+  	<node name="APF" pkg="cool" type="potential_field" output="screen" />
+</launch>
