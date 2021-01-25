@@ -5,6 +5,6 @@ This is a ROS package for collision avoidance Rpi car.
 * Arduino Uno
 * DC motor with encoder
 * RpLidar A1
- ![](https://i.imgur.com/mVrq7KT)
+ ![](https://i.imgur.com/mVrq7KT.png)
 ## Pre 
 ## Package description
